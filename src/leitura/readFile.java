@@ -8,7 +8,7 @@ public class readFile {
 	public static void main(String[] args){
      
 	 try {
-	  FileReader arq = new FileReader("C:/Users/Lucas Felipe/Documents/Aulas Lucas/COMP/Trab 1/texto.txt");
+	  FileReader arq = new FileReader("C:/Users/Lucas Felipe/eclipse-workspace/Analisador Lexico/src/texto.txt");
 	      BufferedReader lerArq = new BufferedReader(arq);
 	 
 	      
